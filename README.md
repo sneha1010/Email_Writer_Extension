@@ -64,23 +64,4 @@ Since this extension is not yet published on the Chrome Web Store, you can insta
 5. The backend calls an AI API and returns a generated reply
 6. The reply is automatically inserted into the Gmail compose box
 
----
-
-## 📁 Project Structure
-
-```
-
-Email_Writer_Extension/
-├── email-writer-ext/          # Chrome Extension (Frontend)
-│   ├── manifest.json
-│   ├── content.js
-│   ├── background.js
-│   └── styles.css
-├── email-writer-sb/            # Spring Boot (Backend)
-│   └── src/
-│       └── main/java/...
-└── README.md
-```
-
-
 > Built with ❤️ to make email replies faster and smarter.
