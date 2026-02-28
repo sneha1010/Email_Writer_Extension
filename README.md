@@ -11,7 +11,7 @@ A Chrome extension that supercharges your Gmail experience by adding an **AI-pow
   - 💼 Professional
   - 😊 Friendly
   - 😎 Casual
-- ⚡ **Seamless Gmail Integration** — Adds an "AI Reply" button right next to Gmail's Send button
+- ⚡ **Seamless Gmail Integration** — Adds an "AI Reply" button before Gmail's Send button
 - 🔒 **No extra login required** — Works directly inside Gmail
 
 ---
