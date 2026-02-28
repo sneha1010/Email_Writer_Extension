@@ -31,7 +31,7 @@ A Chrome extension that supercharges your Gmail experience by adding an **AI-pow
 |-----------|-------------------------|
 | Frontend  | JavaScript, Chrome Extension API |
 | Backend   | Java, Spring Boot       |
-| AI        | (e.g. OpenAI / Gemini API — update as needed) |
+| AI        | Groq API |
 | Deployment | AWS EC2 |
 
 ---
